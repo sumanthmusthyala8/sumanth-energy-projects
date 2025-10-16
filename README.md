@@ -1,12 +1,5 @@
-# sumanth-energy-projects
-My AI, ML and arduino projects related to Energy Management and Renewable Systems
-
-# Solar Irradiation Prediction
-Tech Stack : Python , Matplotlib , Scikit-learn
-Predict solar radiation using Linear regression, Polynomial regression and KNN
-Helps in estimating solar power availability for renewable energy systems
-Trained on NASA power datasets
-Includes visualisation
+# sumanth-energy-management-projects
+My arduino project related to Energy Management and Renewable Systems
 
 # Energy source management system (Arduino)
 Tech Stack : Arduino , C++ , Sensors and Relays
